@@ -21,30 +21,30 @@ Fra & Tos,<br>
 and over 130 Ananymus Funders,<br>
 <br>
 
-abrak,<br> 
-Avatar X,<br>
-Adriaan Jutte,<br>
-Adrian Smales,<br>
-agricocb (Craig B. Agricola),<br>
-alangford4340,<br>
-Alasdair Shepherd,<br>
-Alex Lane,<br>
-Alexander Ponomarenko,<br>
-alexey.zvyagin,<br>
-alexpeterson91,<br>
-Andreas Huber,<br>
-Andrew Yashchuk,<br>
-Ania S,<br>
-Anthony Lai,<br>
-Anthony Yacobucci,<br>
-antuvan dindisyan,<br>
-Arthur Ostapenko,<br>
-ashhunter,<br>
-bgok,<br>
-Bill Nussey,<br>
-Bitcoin Chaser,<br>
-bitkoyin,<br>
-Bob Smith,<br>
+abrak, 
+Avatar X, 
+Adriaan Jutte, 
+Adrian Smales, 
+agricocb (Craig B. Agricola), 
+alangford4340, 
+Alasdair Shepherd, 
+Alex Lane, 
+Alexander Ponomarenko, 
+alexey.zvyagin, 
+alexpeterson91, 
+Andreas Huber, 
+Andrew Yashchuk, 
+Ania S, 
+Anthony Lai, 
+Anthony Yacobucci, 
+antuvan dindisyan, 
+Arthur Ostapenko, 
+ashhunter, 
+bgok, 
+Bill Nussey, 
+Bitcoin Chaser, 
+bitkoyin, 
+Bob Smith, 
 Bradleytf,<br>
 Brendan Hsiao,<br>
 Brian Cartmell,<br>
@@ -63,8 +63,8 @@ chillaxed42,<br>
 Chris Coney,<br>
 Chris Muller,<br>
 Chris Olds,<br>
-Christian Holz
-Christopher McDonald
+Christian Holz,
+Christopher McDonald,
 Christopher Wu
 christopher.r.khan
 cltndmarsh
