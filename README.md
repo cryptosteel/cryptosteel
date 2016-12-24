@@ -3,7 +3,7 @@ CRYPTOSTEEL - MASTER OF ALL BACKUPS
 ![Cryptosteel](http://i.imgur.com/DmUPsNe.png)
 
 CREATED WITH GENEROUS HELP OF CROWDFUNDERS:
-
+<B><br>
 Wojciech Stopinski,<br>
 Jan Mierzejewski,<br>
 Paweł Mierzejewski,<br>
@@ -17,11 +17,10 @@ Dagmara,<br>
 Marek & Teodor,<br>
 Kuras,<br>
 Ovors,<br>
-Fra & Tos,<br>
-and over 130 Ananymus Funders,<br>
-<br>
+Fra & Tos,<br></B>
 
-abrak, 
+A:<br>
+Abrak, 
 Avatar X, 
 Adriaan Jutte, 
 Adrian Smales, 
@@ -40,29 +39,31 @@ Anthony Yacobucci,
 antuvan dindisyan, 
 Arthur Ostapenko, 
 ashhunter, 
+<br>B:<br>
 bgok, 
 Bill Nussey, 
 Bitcoin Chaser, 
 bitkoyin, 
 Bob Smith, 
-Bradleytf,<br>
-Brendan Hsiao,<br>
-Brian Cartmell,<br>
-Brian Goss MD,<br>
-bryan,<br>
-Bryan Newman,<br>
-C Mark Taylor,<br>
-calley,<br>
-cannon,<br>
-CANNON N. CIOTA,<br>
-Carl Myers,<br>
-Carlos A. Barbero,<br>
-ChainQuery.com,<br>
-charlesworrell,<br>
-chillaxed42,<br>
-Chris Coney,<br>
-Chris Muller,<br>
-Chris Olds,<br>
+Bradleytf, 
+Brendan Hsiao, 
+Brian Cartmell, 
+Brian Goss MD, 
+bryan, 
+Bryan Newman, 
+<br>C:<br>
+C Mark Taylor, 
+calley, 
+cannon, 
+CANNON N. CIOTA, 
+Carl Myers, 
+Carlos A. Barbero, 
+ChainQuery.com, 
+charlesworrell, 
+chillaxed42, 
+Chris Coney, 
+Chris Muller, 
+Chris Olds, 
 Christian Holz,
 Christopher McDonald,
 Christopher Wu
@@ -72,6 +73,7 @@ Cody Racette
 CP Helms
 CryptoWorld love Bitcoins - Cryptosteel
 dahlia.dietrich
+<br>D:<br>
 Dale N
 Dan Whiley
 Daniel Gibbs
@@ -92,6 +94,7 @@ dr.webster
 dragon788
 drdesign
 duaine oen
+<br>E:<br>
 eiichiro
 eramseth
 Erik Pfaffenbach
@@ -282,6 +285,9 @@ yogiakira
 zaeht
 Zaki Manian
 zenzilla25
+<br><B>
+and over 130 Ananymus Funders,<br>
+<br></B>
 
 
 
