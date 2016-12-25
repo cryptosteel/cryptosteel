@@ -19,7 +19,7 @@ Kuras,
 Ovors, 
 Fra & Tos, </B>
 
-<br>
+<br><br>
 Abrak, 
 Avatar X, 
 Adriaan Jutte, 
@@ -39,7 +39,7 @@ Anthony Yacobucci,
 antuvan dindisyan, 
 Arthur Ostapenko, 
 ashhunter, 
-<br>
+<br><br>
 bgok, 
 Bill Nussey, 
 Bitcoin Chaser, 
@@ -51,7 +51,7 @@ Brian Cartmell,
 Brian Goss MD, 
 bryan, 
 Bryan Newman, 
-<br>
+<br><br>
 C Mark Taylor, 
 calley, 
 cannon, 
@@ -73,7 +73,7 @@ Cody Racette,
 CP Helms, 
 CryptoWorld,
 dahlia.dietrich, 
-<br>
+<br><br>
 Dale N, 
 Dan Whiley, 
 Daniel Gibbs,
