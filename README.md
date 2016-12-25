@@ -1,9 +1,11 @@
-<p align="center">CRYPTOSTEEL - MASTER OF ALL BACKUPS </p>
+<p align="center"><b>CRYPTOSTEEL - MASTER OF ALL BACKUPS</b> </p>
 ￼<br>
 ![Cryptosteel](http://i.imgur.com/DmUPsNe.png)
 
-
-CREATED WITH GENEROUS HELP OF CROWDFUNDERS:
+Cryptosteel is the premier indestructible backup tool for optimal offline storage of private keys, passwords and wallet recovery seeds without any third-party involvement. The technology combines the age-old idea of engraving with a DIY assembly format and materials that are stainless, rust-free, and fireproof up to 1200°C/2100°F to survive extreme conditions and unthinkable abuse.
+<br>
+<p align="center">
+CREATED WITH GENEROUS HELP OF CROWDFUNDERS:</p>
 <B><br>
 Wojciech Stopinski,
 Jan Mierzejewski, 
