@@ -94,21 +94,21 @@ dr.webster,
 dragon788, 
 drdesign, 
 duaine oen, 
-<br>
+<br><br>
 eiichiro, 
 eramseth, 
 Erik Pfaffenbach, 
 erwinbantilan, 
-<br>
+<br><br>
 Filip G, 
 Filip P, 
 FIT, 
-<br>
+<br><br>
 Gal Buki, 
 GoodBloke, 
 Graham Ranson, 
 Gustavo Araújo, 
-<br>
+<br><br>
 H.Bean, 
 haiku772, 
 Hans Haskell, 
@@ -117,12 +117,12 @@ Herr Kamps,
 hostfat, 
 hunter.unreal, 
 Huw Pryce, 
-<br>
+<br><br>
 id144, 
 indiegogo, 
 Isaiah Mahmood, 
 Ivan LAPTCHENKO, 
-<br>
+<br><br>
 j.faber, 
 Jack Vaughn, 
 Jack Wesolek, 
@@ -154,7 +154,7 @@ jroslinda,
 Juho Määttä, 
 Julien Croy, 
 Justin Newton, 
-<br>
+<br><br>
 k.kostrzebski, 
 Kasper Souren, 
 KD-JIMPX, 
@@ -164,7 +164,7 @@ keo,
 kevin.swan, 
 kr_barnett, 
 kurodatsubasa, 
-<br>
+<br><br>
 Lawrence Botley, 
 Lech W, 
 Lionel Palazzi, 
@@ -174,7 +174,7 @@ LordlySpider,
 lucasansone238, 
 lucash9, 
 lukerobertson27, 
-<br>
+<br><br>
 Maciej Hofman, 
 madcotto, 
 Madej, 
@@ -202,16 +202,16 @@ Mirco Romanato,
 MR M B HOLT, 
 Murph Finnicum, 
 Murray Hunt Jr., 
-<br>
+<br><br>
 neil, 
 Neil Lindholm, 
 @Nevnaur, 
 Niklas Huke, 
 Nikolaus Rossbacher, 
-<br>
+<br><br>
 Ofir Beigel, 
 Ondrej Hirjak, 
-<br>
+<br><br>
 parthcmodi, 
 Patrick Reardon, 
 patrick.mason, 
@@ -224,7 +224,7 @@ Philipp Rueegg,
 Pouncer Somsa, 
 Przemek Minor, 
 Ptrjcain, 
-<br>
+<br><br>
 Ralf Retterath RR, 
 Ram Hardy, 
 Ratdog45, 
@@ -246,7 +246,7 @@ Roy Osherove,
 runar.thorstensen, 
 ruperthackett, 
 Ruta89, 
-<br>
+<br><br>
 sakari.lampinen, 
 Sam Lehman, 
 Sardokan, 
@@ -267,7 +267,7 @@ Steven Batchelor-Manning,
 stvhltz, 
 sxdewazx, 
 Sylwester S, 
-<br>
+<br><br>
 talontech1, 
 Tamas Koncz, 
 TAN CHEOW HOW, 
@@ -283,27 +283,27 @@ TQMA,
 Troy Schultz, 
 TRUQUINI FONSAXOFON, 
 tsaf11, 
-<br>
+<br><br>
 Udi Wertheimer, 
 ulf.makestad, 
 user:1EHQEbwQAf26MQ4AwRVrooFWp7CxEPCS1UEPCS1U￼, 
-<br>
+<br><br>
 Victor Grinevich, 
-<br>
+<br><br>
 wade.bittle, 
 Wes Tyler, 
 Wesley May, 
 Will Topping, 
 William Lefever, 
 Wolf Schlickenrieder, 
-<br>
+<br><br>
 Yevhen Starynets, 
 yogiakira, 
-<br>
+<br><br>
 zaeht, 
 Zaki Manian, 
 zenzilla25, 
-<br><B>
+<br><br><B>
 and over 130 Ananymus Funders,<br>
 <br></B>
 
