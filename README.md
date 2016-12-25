@@ -1,6 +1,8 @@
 <p align="center">CRYPTOSTEEL - MASTER OF ALL BACKUPS </p>
 ￼<br>
-<p align="center">![Cryptosteel](http://i.imgur.com/DmUPsNe.png) </p>
+<p align="center">
+![Cryptosteel](http://i.imgur.com/DmUPsNe.png) 
+</p>
 
 CREATED WITH GENEROUS HELP OF CROWDFUNDERS:
 <B><br>
