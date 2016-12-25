@@ -4,7 +4,7 @@
 Cryptosteel is the premier indestructible backup tool for optimal offline storage of private keys, passwords and HD-Wallets recovery seeds without any third-party involvement. <br>
 The technology combines the age-old idea of engraving with a DIY assembly format and materials that are stainless, rust-free, and fireproof up to 1200°C/2100°F to survive extreme conditions and unthinkable abuse.
 <br> 
-Available now at: <a href="https://cryptosteel.com">www.cryptosteel.com</a><br>
+Available now at: <a href="https://cryptosteel.com">www.cryptosteel.com</a><br><br>
 <p align="center">
 CREATED WITH GENEROUS HELP OF CROWDFUNDERS:</p>
 <B>
