@@ -1,4 +1,4 @@
-CRYPTOSTEEL - MASTER OF ALL BACKUPS 
+<p align="center">CRYPTOSTEEL - MASTER OF ALL BACKUPS </p>
 ￼<br>
 ![Cryptosteel](http://i.imgur.com/DmUPsNe.png)
 
