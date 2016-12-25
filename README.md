@@ -4,20 +4,20 @@ CRYPTOSTEEL - MASTER OF ALL BACKUPS
 
 CREATED WITH GENEROUS HELP OF CROWDFUNDERS:
 <B><br>
-Wojciech Stopinski,<br>
-Jan Mierzejewski,<br>
-Paweł Mierzejewski,<br>
-Paulina Gajos,<br>
-Rafael Akahira,<br>
-Olgierd Stopinski,<br>
-Witold,<br>
-Kacper,<br>
-Alena & Marek,<br>
-Dagmara,<br>
-Marek & Teodor,<br>
-Kuras,<br>
-Ovors,<br>
-Fra & Tos,<br></B>
+Wojciech Stopinski,
+Jan Mierzejewski, 
+Paweł Mierzejewski, 
+Paulina Gajos, 
+Rafael Akahira, 
+Olgierd Stopinski, 
+Witold, 
+Kacper, 
+Alena & Marek, 
+Dagmara, 
+Marek & Teodor, 
+Kuras, 
+Ovors, 
+Fra & Tos, </B>
 
 A:<br>
 Abrak, 
