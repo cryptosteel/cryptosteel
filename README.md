@@ -20,8 +20,7 @@ Marek & Teodor,
 Kuras, 
 Ovors, 
 Fra & Tos, </B>
-
-<br><br>
+<br>
 Abrak, 
 Avatar X, 
 Adriaan Jutte, 
