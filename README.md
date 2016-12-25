@@ -1,5 +1,5 @@
-<p align="center"><b>CRYPTOSTEEL - MASTER OF ALL BACKUPS</b>
- <img align="center" width="35%" src="http://i.imgur.com/DmUPsNe.png" herf="https://cryptosteel.com"></img></p>
+<p align="center"><b>CRYPTOSTEEL - MASTER OF ALL BACKUPS</b><br>
+ <img width="40%" src="http://i.imgur.com/DmUPsNe.png" herf="https://cryptosteel.com"></p>
 ￼<br>
 
 Cryptosteel is the premier indestructible backup tool for optimal offline storage of private keys, passwords and HD-Wallets recovery seeds without any third-party involvement. 
