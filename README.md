@@ -307,7 +307,7 @@ zaeht,
 Zaki Manian, 
 zenzilla25, 
 <br><br><B>
-and over 130 Anonymus Funders,<br>
+and over 130 Anonymus Backers,<br>
 <br></B>
 
 
