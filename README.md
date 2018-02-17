@@ -159,7 +159,7 @@ Julien Croy,
 Justin Newton, 
 <br><br>
 k.kostrzebski, 
-Kasper Souren, 
+Kasper S, 
 KD-JIMPX, 
 kd7jhd, 
 Keith Wahl, 
@@ -307,7 +307,7 @@ zaeht,
 Zaki Manian, 
 zenzilla25, 
 <br><br><B>
-and over 130 Anonymus Backers,<br>
+and over 130 Anonymous Backers,<br>
 <br></B>
 
 
