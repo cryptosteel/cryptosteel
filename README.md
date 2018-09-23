@@ -159,7 +159,6 @@ Julien Croy,
 Justin Newton, 
 <br><br>
 k.kostrzebski, 
-Kasper Souren, 
 KD-JIMPX, 
 kd7jhd, 
 Keith Wahl, 
